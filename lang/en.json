@@ -53,6 +53,7 @@
         "Probably.",
         "Are you kidding?",
         "Don't bet on it.",
+        "No. Better just get high, mate."
         "Forget about it."
     ],
     "nodatafound": "No previous data found.",
@@ -182,6 +183,7 @@
     "muterank": "\/me [@%%NAME%%] You can't mute persons with an equal or higher rank than you.",
     "oplist": "\/me OP list: %%LINK%%",
     "pong": "\/me Pong!",
+    "blazeit": "\/me Blaze it! :herb: :fire: :dash:",
     "reload": "\/me Be right back.",
     "removenotinwl": "\/me [@%%NAME%%] Specified user @%%USERNAME%% is not in the waitlist.",
     "roomrules": "\/me Please find the room rules here: %%LINK%%",
